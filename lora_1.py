@@ -102,3 +102,4 @@ class LoRaNFCSender:
 if __name__ == "__main__":
     app = LoRaNFCSender()
     app.run()
+    
